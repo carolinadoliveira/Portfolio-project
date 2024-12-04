@@ -1,13 +1,5 @@
-body {
-  background: red;
-}
-
-h1 {
-  color: white;
-  font-family: "Playfair", serif;
-  font-weight: bold;
-}
-p {
-  font-family: "Poppins", serif;
-  font-weight: normal;
+text-img-background {
+  height: 265px;
+  width: 1440px;
+  color: blue;
 }
